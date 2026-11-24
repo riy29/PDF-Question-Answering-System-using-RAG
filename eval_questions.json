@@ -1,0 +1,17 @@
+[
+  {"q": "What does PCA do?", "source": "machine_learning_basics.pdf", "keywords": ["variance"]},
+  {"q": "How is overfitting reduced?", "source": "machine_learning_basics.pdf", "keywords": ["regularization"]},
+  {"q": "Which metrics are used for classification?", "source": "machine_learning_basics.pdf", "keywords": ["precision", "recall"]},
+  {"q": "What is a CNN used for on ECG signals?", "source": "machine_learning_basics.pdf", "keywords": ["heartbeat"]},
+  {"q": "What is feature engineering?", "source": "machine_learning_basics.pdf", "keywords": ["input columns"]},
+  {"q": "What are the four stages of a RAG pipeline?", "source": "rag_explained.pdf", "keywords": ["four stages"]},
+  {"q": "Why does RAG reduce hallucination?", "source": "rag_explained.pdf", "keywords": ["hallucination"]},
+  {"q": "Why use overlap between chunks?", "source": "rag_explained.pdf", "keywords": ["boundary"]},
+  {"q": "What is TF-IDF?", "source": "rag_explained.pdf", "keywords": ["rarely"]},
+  {"q": "How is RAG quality measured?", "source": "rag_explained.pdf", "keywords": ["hit rate"]},
+  {"q": "How is CTR calculated?", "source": "digital_marketing_metrics.pdf", "keywords": ["impressions"]},
+  {"q": "What is ROAS?", "source": "digital_marketing_metrics.pdf", "keywords": ["revenue"]},
+  {"q": "What is CPA?", "source": "digital_marketing_metrics.pdf", "keywords": ["conversions"]},
+  {"q": "What do negative keywords do?", "source": "digital_marketing_metrics.pdf", "keywords": ["irrelevant"]},
+  {"q": "What is A/B testing?", "source": "digital_marketing_metrics.pdf", "keywords": ["splitting traffic"]}
+]

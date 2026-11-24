@@ -1,0 +1,5 @@
+flask>=3.0
+pypdf>=4.0
+requests>=2.31
+# Optional (to regenerate the sample PDFs): reportlab
+# Optional (better semantic search, set RAG_BACKEND=embed): sentence-transformers
